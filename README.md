@@ -4,12 +4,11 @@ Welcome! This challenge will help us gauge your knowledge and evaluate your full
 
 ## Core Goals
 
-The core goal is to create a simple but functional web application that has data, view and logic layers. This application will consult the [Cat API](https://thecatapi.com/) and display detailed information about cat several breeds.
+The core goal is to create a simple but functional web application that has data, logic and view components. This application will consult the [Cat API](https://thecatapi.com/) and display detailed information about cat several breeds.
 
 The landing page should display cards with the name and image of 5 breeds picked randomly. Clicking any breed should lead to a detail page where all information about the breed should be displayed. It should also implement a search box in the landing page allowing queries by breed name.
 
 - Node.js 18
-- MVC
 - Responsive layout
 - Landing page with 5 cards
 - Detail pages 
